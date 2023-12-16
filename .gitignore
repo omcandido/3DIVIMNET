@@ -1,0 +1,13 @@
+.env
+
+/synthetic/*
+!/synthetic/.gitkeep
+
+/raw_data/*
+!/raw_data/.gitkeep
+
+/saved_preds/*
+!/saved_preds/.gitkeep
+
+/saved_models/*
+!/saved_models/.gitkeep
